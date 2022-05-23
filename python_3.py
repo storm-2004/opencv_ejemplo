@@ -1,3 +1,5 @@
+""" Este codigo due echo de acuerdo a la documentacion de opencv """
+
 import cv2
 from numpy import true_divide
 
